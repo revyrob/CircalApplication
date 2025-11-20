@@ -8,16 +8,10 @@ As companies take the step towards going fully remote, employees can lose the ba
 
 **Frontend:**
 
-- Create a user and be associated with one of the selected companies within the dropdown list. You will be required to finished sections of your profile before you can proceed.
 - Once your profile is created, you can join groups and events created by groups.
-- The events can be help online or offline.
+- The events can be held online or offline.
 - Any user can create an event or a group.
 
-**Database:**
-
-- Supabase hosts all our tables.
-- We used Supabase for Authorization.
-- We query our backend tables from the frontend.
 
 **What it can do**
 Login page uses Supabase Authenticate
@@ -66,11 +60,6 @@ Create Post
 
 Create Group
 
-
-## Deployed Site
-
-<p>We deployed using Vercel</p>
-<p>Check it out 👉 <a href="https://reconnector.vercel.app/" target="_blank">HERE</a></p>
 
 ## ⚒️ Tech Stack
 ![Logo](https://skillicons.dev/icons?i=html,scss,materialui,vite,supabase,postgres)

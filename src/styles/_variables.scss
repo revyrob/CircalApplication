@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+// fonts
+$font-primary: "Roboto", sans-serif;
+// primary colors
+$color-dark: #282828;
+$color-medium:#6C3ED6;
+$color-medium-transparent:#6c3ed64f;
+$color-light: #939396;
+$color-light-sec:#D9D9D9;
+$color-light-accent-sec: #ede1f3;
+$color-light-accent: #FFFFFF;
+//text-color
+$color-text: #8F8B8B;
+// screen sizes
+$tablet-width: 768px;
+$desktop-width: 1280px;
+$desktop-xlwidth: 1600px;
+//font sizes
+$font-base-sm: 0.875rem; //14px
+$font-base-md: 1rem;    //16px
+$font-base-lg: 1.125rem; //18px
+$font-base-lg: 1.25rem; //20px
+$font-title-lg: 1.5rem; //24px
+$font-title-xxl: 1.75rem; //28px

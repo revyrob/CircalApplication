@@ -1,0 +1,33 @@
+.groups {
+    // padding-top: 40px;
+    margin: 0 32px;
+
+    &__title {
+        text-align: left;
+        margin: 0;
+    }
+    &__cards {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(300px, 1fr));
+        grid-template-rows: auto;
+        gap: 20px;
+        justify-items: center;
+        align-items: center;
+        max-width: 1200px;
+        margin: 0 auto;
+        margin-bottom: 100px;
+    }
+
+    &__header{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 20px;
+    }
+    &__filter-wrapper{
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        width: 100%;
+    }
+}
